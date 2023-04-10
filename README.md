@@ -1,1 +1,2 @@
 # EntitySpawner
+Spawn, boxes.
